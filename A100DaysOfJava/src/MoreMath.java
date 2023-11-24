@@ -1,0 +1,21 @@
+
+public class MoreMath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		double number = 2.22;
+		
+		long roundNumber = Math.round(number); // This will conver the double into an int, in java we need to use the parent (class) and the method
+		
+	// or 
+		
+		int Round = (int)Math.round(number);
+				
+		
+		double n = Math.pow(2, 2); //pow returns a double 
+
+	}
+
+}
