@@ -1,0 +1,21 @@
+
+import java.util.*;
+public class InputOutputData {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// Static Method  = Class.methood() Math.sqrt() 
+		// Non static needs to instance the class example:
+		
+		
+		Scanner name = new Scanner(System.in); // Name will be the Scanner object created 
+		
+		System.out.println("Please enter your name!: ");
+		String n = name.nextLine();
+		System.out.println("Your name is" + n);
+		
+		
+	}
+
+}

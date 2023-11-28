@@ -7,7 +7,7 @@ public class ClassString {
 		String myName = "Jesus"; // This is my name
 		
 		
-		//Como myName es un objeto string, podemos el metodo directamente  
+		//Como myName es un objeto string, podemos el metodo directamente 
 		int x = myName.length();
 	}
 
